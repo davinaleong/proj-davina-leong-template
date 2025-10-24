@@ -8,12 +8,20 @@
      1. Tailwind Slate (100, 900): Accent
      1. Tailwind Gray (100, 900): Typography
    - Typography
-     1. Montserrat: primary, sans. Join with system fonts
-     1. Playfair Display: secondary, serif, Join with system serif fonts
-     1. Source Code Pro: mono. Join with system mono fonts
+     - Montserrat: primary, sans. Join with system fonts
+     - Playfair Display: secondary, serif, Join with system serif fonts
+     - Source Code Pro: mono. Join with system mono fonts
+     - In the assets/fonts folder
    - Simple, professional, but a little fun
    - Paper style with small rounded corners
    - Light/Dark/System themes
+   - Images
+     - dav-coloured.svg: original logo
+     - dav-black.svg: positive version of the logo
+     - dav-white.svg: negative version of the logo
+     - rect-placeholder.png: 16/9 placeholder for posts with missing thumbnails
+     - square-placeholder.png: 1/1 placeholder for posts with missing thumbnails
+     - In the assets/images folder
 
 1. Layout
    1. Header
