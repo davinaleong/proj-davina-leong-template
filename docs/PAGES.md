@@ -3,11 +3,17 @@
 1. Theme
 
    - Colors
-     1. Tailwind Blue (300, 500, 700) - Primary
-     1. Tailwind Sky (500) - Secondary
-     1. Tailwind Slate (100, 900) - Accent
-     1. Tailwind Gray (100, 900) - Typography
+     1. Tailwind Blue (300, 500, 700): Primary
+     1. Tailwind Sky (500): Secondary
+     1. Tailwind Slate (100, 900): Accent
+     1. Tailwind Gray (100, 900): Typography
+   - Typography
+     1. Montserrat: primary, sans. Join with system fonts
+     1. Playfair Display: secondary, serif, Join with system serif fonts
+     1. Source Code Pro: mono. Join with system mono fonts
    - Simple, professional, but a little fun
+   - Paper style with small rounded corners
+   - Light/Dark/System themes
 
 1. Layout
    1. Header
@@ -38,6 +44,7 @@
 1. Function Notes
    1. Pagination
       - Style: 1 2 ... 4 ... 6 7
+   1. No contact form. Instead, contact me on Facebook
 1. Home Page
    1. Hero
    1. Featured and latest Projects
